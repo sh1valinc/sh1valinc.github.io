@@ -1,0 +1,36 @@
+ .u-section-1 {
+  background-image: url("images/VeneratedAccomplishedEsok-mobile.gif");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 918px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Acme;
+  margin: 222px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Acme;
+  font-size: 2.25rem;
+  margin: 39px auto 60px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1109px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1130px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+}
